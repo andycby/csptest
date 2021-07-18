@@ -1,7 +1,13 @@
-.body {
+body {
     background-color: black;
 }
 
-.h1 {
+h1 {
     color:yellow;
 }
+
+button {
+    margin-left: 10px;
+    background-color: rgb(253, 133, 34);
+    color:#fff;
+}   
